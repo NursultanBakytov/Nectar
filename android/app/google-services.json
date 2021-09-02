@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "492097670676",
+    "project_id": "test-assignment-react-native",
+    "storage_bucket": "test-assignment-react-native.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492097670676:android:bfb2e3b4ccca80e3cb6101",
+        "android_client_info": {
+          "package_name": "com.maxylogic.nectar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492097670676-qrvd9028sqqudngsekg8n7tk0ji6kl6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtTsppE7zhTXXC5ZaJEcjtRkuNCRReaT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492097670676-qrvd9028sqqudngsekg8n7tk0ji6kl6i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "492097670676-rj7mcsrc8o7f8tvef5oqq8ub9gquutrt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.maxylogic.nectar"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
